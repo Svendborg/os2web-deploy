@@ -9,12 +9,6 @@ projects[os2web_base][download][type] = "git"
 projects[os2web_base][download][branch] = "master"
 projects[os2web_base][download][url] = "https://github.com/OS2web/os2web_base.git"
 
-; OS2Web base panels
-projects[os2web_base_panels][type] = "module"
-projects[os2web_base_panels][download][type] = "git"
-projects[os2web_base_panels][download][branch] = "master"
-projects[os2web_base_panels][download][url] = "https://github.com/OS2web/os2web_base_panels.git"
-
 ; OS2Web Borger Dk
 projects[os2web_borger_dk][type] = "module"
 projects[os2web_borger_dk][download][type] = "git"
@@ -234,6 +228,6 @@ projects[workbench_moderation][subdir] = "contrib"
 
 ; Themes
 
-projects[ember][version] = "2.0-alpha2"
+projects[ember][version] = "2.0-alpha2"]
 
 projects[wetkit_ember][version] = "1.3"
