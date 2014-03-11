@@ -225,6 +225,6 @@ projects[workbench_moderation][subdir] = "contrib"
 
 ; Themes
 
-projects[ember][version] = "2.0-alpha2"]
+projects[ember][version] = "2.0-alpha2"
 
 projects[wetkit_ember][version] = "1.3"
