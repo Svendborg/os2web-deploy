@@ -190,9 +190,6 @@ projects[simplehtmldom][subdir] = "contrib"
 projects[strongarm][version] = "2.0"
 projects[strongarm][subdir] = "contrib"
 
-projects[superfish][version] = "1.8"
-projects[superfish][subdir] = "contrib"
-
 projects[taxonomy_manager][version] = "1.0"
 projects[taxonomy_manager][subdir] = "contrib"
 
