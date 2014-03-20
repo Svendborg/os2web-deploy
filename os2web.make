@@ -21,6 +21,12 @@ projects[os2web_taxon_api][download][type] = "git"
 projects[os2web_taxon_api][download][branch] = "master"
 projects[os2web_taxon_api][download][url] = "https://github.com/OS2web/os2web_taxon_api.git"
 
+; OS2Web Old Nodes
+projects[os2web_old_nodes][type] = "module"
+projects[os2web_old_nodes][download][type] = "git"
+projects[os2web_old_nodes][download][branch] = "master"
+projects[os2web_old_nodes][download][url] = "https://github.com/Svendborg/os2web_old_nodes.git"
+
 ; Modules
 projects[views_bulk_operations][version] = "3.2"
 projects[views_bulk_operations][subdir] = "contrib"
