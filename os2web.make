@@ -223,6 +223,9 @@ projects[workbench][subdir] = "contrib"
 projects[workbench_moderation][version] = "1.3"
 projects[workbench_moderation][subdir] = "contrib"
 
+projects[feedback][subdir] = "contrib"
+projects[feedback][version] = "2.x-dev"
+
 ; Themes
 
 projects[ember][version] = "2.0-alpha2"
