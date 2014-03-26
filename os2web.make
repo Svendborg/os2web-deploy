@@ -27,6 +27,12 @@ projects[os2web_old_nodes][download][type] = "git"
 projects[os2web_old_nodes][download][branch] = "master"
 projects[os2web_old_nodes][download][url] = "https://github.com/Svendborg/os2web_old_nodes.git"
 
+; OS2Web News Page
+projects[os2web_news_page][type] = "module"
+projects[os2web_news_page][download][type] = "git"
+projects[os2web_news_page][download][branch] = "master"
+projects[os2web_news_page][download][url] = "https://github.com/Svendborg/os2web_news_page.git"
+
 ; Modules
 projects[views_bulk_operations][version] = "3.2"
 projects[views_bulk_operations][subdir] = "contrib"
