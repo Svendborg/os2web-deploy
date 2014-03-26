@@ -241,6 +241,9 @@ projects[rules][subdir] = "contrib"
 projects[feedback][subdir] = "contrib"
 projects[feedback][version] = "2.x-dev"
 
+projects[scheduler][subdir] = "contrib"
+projects[scheduler][version] = "1.2"
+
 ; Themes
 
 projects[ember][version] = "2.0-alpha2"
