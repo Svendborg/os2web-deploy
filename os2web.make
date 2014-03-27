@@ -256,8 +256,14 @@ projects[scheduler][version] = "1.2"
 projects[facetapi][subdir] = "contrib"
 projects[facetapi][version] = "1.3"
 
+projects[date_facets][subdir] = "contrib"
+projects[date_facets][version] = "1.0-beta2"
+
 projects[apachesolr][subdir] = "contrib"
 projects[apachesolr][version] = "1.6"
+
+projects[apachesolr_views][subdir] = "contrib"
+projects[apachesolr_views][version] = "1.0-beta2"
 
 ; Themes
 
