@@ -154,8 +154,14 @@ projects[linkit][subdir] = "contrib"
 projects[mailchimp][version] = "2.12"
 projects[mailchimp][subdir] = "contrib"
 
-projects[media][version] = "2.0-alpha3"
+projects[media][version] = "2.0-alpha2"
 projects[media][subdir] = "contrib"
+
+projects[media_youtube][version] = "2.0-rc3"
+projects[media_youtube][subdir] = "contrib"
+
+projects[media_ustream][version] = "1.0-beta1"
+projects[media_ustream][subdir] = "contrib"
 
 projects[menu_block][version] = "2.3"
 projects[menu_block][subdir] = "contrib"
