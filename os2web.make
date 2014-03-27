@@ -55,6 +55,9 @@ projects[ctools][subdir] = "contrib"
 projects[ckeditor][version] = "1.13"
 projects[ckeditor][subdir] = "contrib"
 
+projects[wysiwyg][version] = "2.2"
+projects[wysiwyg][subdir] = "contrib"
+
 projects[content_taxonomy][version] = "1.0-beta2"
 projects[content_taxonomy][subdir] = "contrib"
 
