@@ -244,6 +244,12 @@ projects[feedback][version] = "2.x-dev"
 projects[scheduler][subdir] = "contrib"
 projects[scheduler][version] = "1.2"
 
+projects[facetapi][subdir] = "contrib"
+projects[facetapi][version] = "1.3"
+
+projects[apachesolr][subdir] = "contrib"
+projects[apachesolr][version] = "1.6"
+
 ; Themes
 
 projects[ember][version] = "2.0-alpha2"
