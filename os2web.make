@@ -33,6 +33,12 @@ projects[os2web_news_page][download][type] = "git"
 projects[os2web_news_page][download][branch] = "master"
 projects[os2web_news_page][download][url] = "https://github.com/Svendborg/os2web_news_page.git"
 
+; Svendborg views
+projects[svendborg_views][type] = "module"
+projects[svendborg_views][download][type] = "git"
+projects[svendborg_views][download][branch] = "master"
+projects[svendborg_views][download][url] = "https://github.com/Svendborg/svendborg_views.git"
+
 ; Modules
 projects[views_bulk_operations][version] = "3.2"
 projects[views_bulk_operations][subdir] = "contrib"
