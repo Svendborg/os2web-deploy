@@ -39,6 +39,10 @@ projects[svendborg_views][download][type] = "git"
 projects[svendborg_views][download][branch] = "master"
 projects[svendborg_views][download][url] = "https://github.com/Svendborg/svendborg_views.git"
 
+; Bedstpaanettet
+projects[bedstpaanettet][version] = "1.0"
+projects[bedstpaanettet][subdir] = "contrib"
+
 ; Modules
 projects[views_bulk_operations][version] = "3.2"
 projects[views_bulk_operations][subdir] = "contrib"
