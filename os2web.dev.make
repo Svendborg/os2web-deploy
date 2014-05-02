@@ -26,3 +26,9 @@ projects[os2web_taxon_api][type] = "module"
 projects[os2web_taxon_api][download][type] = "git"
 projects[os2web_taxon_api][download][branch] = "master"
 projects[os2web_taxon_api][download][url] = "git@github.com:OS2web/os2web_taxon_api.git"
+
+; OS2Web Spotbox
+projects[os2web_spotbox][type] = "module"
+projects[os2web_spotbox][download][type] = "git"
+projects[os2web_spotbox][download][branch] = "feature/7.x-2.0"
+projects[os2web_spotbox][download][url] = "git@github.com:Svendborg/os2web_spotbox.git"

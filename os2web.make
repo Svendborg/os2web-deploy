@@ -33,6 +33,12 @@ projects[os2web_news_page][download][type] = "git"
 projects[os2web_news_page][download][branch] = "master"
 projects[os2web_news_page][download][url] = "https://github.com/Svendborg/os2web_news_page.git"
 
+; OS2Web Spotbox
+projects[os2web_spotbox][type] = "module"
+projects[os2web_spotbox][download][type] = "git"
+projects[os2web_spotbox][download][branch] = "feature/7.x-2.0"
+projects[os2web_spotbox][download][url] = "https://github.com/Svendborg/os2web_spotbox.git"
+
 ; Svendborg views
 projects[svendborg_views][type] = "module"
 projects[svendborg_views][download][type] = "git"
@@ -181,6 +187,7 @@ projects[menu_block][subdir] = "contrib"
 
 projects[menu_minipanels][version] = "1.1"
 projects[menu_minipanels][subdir] = "contrib"
+projects[menu_minipanels][patch][] = "http://drupal.org/files/issues/menu_minipanels-theme-registry-perf-2213851-4.patch"
 
 projects[menu_position][version] = "1.1"
 projects[menu_position][subdir] = "contrib"
