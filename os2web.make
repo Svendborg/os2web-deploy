@@ -285,6 +285,7 @@ projects[apachesolr_views][version] = "1.0-beta2"
 ; For varnish
 projects[varnish][subdir] = "contrib"
 projects[varnish][version] = "1.0-beta2"
+projects[varnish][patch][1481136] = "http://drupal.org/files/varnish_purge_limit-1481136-10.patch"
 
 projects[expire][subdir] = "contrib"
 projects[expire][version] = "2.0-rc3"
