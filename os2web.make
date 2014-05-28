@@ -295,3 +295,11 @@ projects[expire][version] = "2.0-rc3"
 projects[ember][version] = "2.0-alpha2"
 
 projects[wetkit_ember][version] = "1.3"
+
+; Svendborg theme
+projects[svendborg_theme][type] = "theme"
+projects[svendborg_theme][download][type] = "git"
+projects[svendborg_theme][download][branch] = "master"
+projects[svendborg_theme][download][url] = "https://github.com/Svendborg/svendborg_theme.git"
+
+projects[bootstrap][version] = "3.1-beta1"

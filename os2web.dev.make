@@ -32,3 +32,9 @@ projects[os2web_spotbox][type] = "module"
 projects[os2web_spotbox][download][type] = "git"
 projects[os2web_spotbox][download][branch] = "feature/7.x-2.0"
 projects[os2web_spotbox][download][url] = "git@github.com:Svendborg/os2web_spotbox.git"
+
+; Svendborg theme
+projects[svendborg_theme][type] = "theme"
+projects[svendborg_theme][download][type] = "git"
+projects[svendborg_theme][download][branch] = "master"
+projects[svendborg_theme][download][url] = "git@github.com:Svendborg/svendborg_theme.git"
