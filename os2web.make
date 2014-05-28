@@ -282,6 +282,9 @@ projects[apachesolr][version] = "1.6"
 projects[apachesolr_views][subdir] = "contrib"
 projects[apachesolr_views][version] = "1.0-beta2"
 
+projects[autologout][subdir] = "contrib"
+projects[autologout][version] = "4.3"
+
 ; For varnish
 projects[varnish][subdir] = "contrib"
 projects[varnish][version] = "1.0-beta2"
