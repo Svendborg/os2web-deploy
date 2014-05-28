@@ -16,11 +16,11 @@
 DATE=`date +%Y%m%d%H%M`
 
 # The newly builed dir
-BUILD_DIR=dev-$DATE
+BUILD_DIR=master-$DATE
 # The previous build dir
-BUILD_DIR_PREV=dev-previous
+BUILD_DIR_PREV=master-previous
 # The build dir with latest build
-BUILD_DIR_LATEST=dev-latest
+BUILD_DIR_LATEST=master-latest
 
 # The Source Profile name
 # This is a special case, where multiple profiles are in same dir.
