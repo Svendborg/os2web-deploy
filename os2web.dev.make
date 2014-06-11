@@ -33,6 +33,9 @@ projects[os2web_spotbox][download][type] = "git"
 projects[os2web_spotbox][download][branch] = "feature/7.x-2.0"
 projects[os2web_spotbox][download][url] = "git@github.com:Svendborg/os2web_spotbox.git"
 
+; OS2web Bootstrap Theme
+projects[os2web_bootstrap_theme][download][url] = "git@github.com:Svendborg/os2web_bootstrap_theme.git"
+
 ; Svendborg theme
 projects[svendborg_theme][type] = "theme"
 projects[svendborg_theme][download][type] = "git"
