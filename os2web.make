@@ -45,6 +45,12 @@ projects[svendborg_views][download][type] = "git"
 projects[svendborg_views][download][branch] = "master"
 projects[svendborg_views][download][url] = "https://github.com/Svendborg/svendborg_views.git"
 
+; Svendborg hide sidebar
+projects[svendborg_hide_sidebar][type] = "module"
+projects[svendborg_hide_sidebar][download][type] = "git"
+projects[svendborg_hide_sidebar][download][branch] = "master"
+projects[svendborg_hide_sidebar][download][url] = "https://github.com/Svendborg/svendborg_hide_sidebar.git"
+
 ; Bedstpaanettet
 projects[bedstpaanettet][version] = "1.0"
 projects[bedstpaanettet][subdir] = "contrib"
