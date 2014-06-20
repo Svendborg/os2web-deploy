@@ -44,3 +44,12 @@ projects[svendborg_kulturkalender][download][url] = "git@github.com:Svendborg/sv
 
 ; Svendborg Hide Sidebar
 projects[svendborg_hide_sidebar][download][url] = "git@github.com:Svendborg/svendborg_hide_sidebar.git"
+
+; OS2web Bootstrap Theme
+projects[os2web_bootstrap_theme][download][url] = "git@github.com:Svendborg/os2web_bootstrap_theme.git"
+
+; Svendborg theme
+projects[svendborg_theme][type] = "theme"
+projects[svendborg_theme][download][type] = "git"
+projects[svendborg_theme][download][branch] = "master"
+projects[svendborg_theme][download][url] = "git@github.com:Svendborg/svendborg_theme.git"
