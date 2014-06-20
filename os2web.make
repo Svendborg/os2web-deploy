@@ -51,6 +51,12 @@ projects[svendborg_sektionssider][download][type] = "git"
 projects[svendborg_sektionssider][download][branch] = "master"
 projects[svendborg_sektionssider][download][url] = "https://github.com/Svendborg/svendborg_sektionssider.git"
 
+; Svendborg image styles
+projects[svendborg_image_styles][type] = "module"
+projects[svendborg_image_styles][download][type] = "git"
+projects[svendborg_image_styles][download][branch] = "master"
+projects[svendborg_image_styles][download][url] = "https://github.com/Svendborg/svendborg_image_styles.git"
+
 ; Bedstpaanettet
 projects[bedstpaanettet][version] = "1.0"
 projects[bedstpaanettet][subdir] = "contrib"

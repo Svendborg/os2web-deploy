@@ -33,4 +33,8 @@ projects[os2web_spotbox][download][type] = "git"
 projects[os2web_spotbox][download][branch] = "feature/7.x-2.0"
 projects[os2web_spotbox][download][url] = "git@github.com:Svendborg/os2web_spotbox.git"
 
+; Svendborg Sektionssider
 projects[svendborg_sektionssider][download][url] = "git@github.com:Svendborg/svendborg_sektionssider.git"
+
+; Svendborg Image Styles
+projects[svendborg_image_styles][download][url] = "git@github.com:Svendborg/svendborg_image_styles.git"
