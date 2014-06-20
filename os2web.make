@@ -45,6 +45,12 @@ projects[svendborg_views][download][type] = "git"
 projects[svendborg_views][download][branch] = "master"
 projects[svendborg_views][download][url] = "https://github.com/Svendborg/svendborg_views.git"
 
+; Svendborg sektionssider
+projects[svendborg_sektionssider][type] = "module"
+projects[svendborg_sektionssider][download][type] = "git"
+projects[svendborg_sektionssider][download][branch] = "master"
+projects[svendborg_sektionssider][download][url] = "https://github.com/Svendborg/svendborg_sektionssider.git"
+
 ; Bedstpaanettet
 projects[bedstpaanettet][version] = "1.0"
 projects[bedstpaanettet][subdir] = "contrib"
@@ -284,6 +290,12 @@ projects[apachesolr_views][version] = "1.0-beta2"
 
 projects[autologout][subdir] = "contrib"
 projects[autologout][version] = "4.3"
+
+projects[node_menu_permissions][subdir] = "contrib"
+projects[node_menu_permissions][version] = "1.0"
+
+projects[roleassign][subdir] = "contrib"
+projects[roleassign][version] = "1.0"
 
 ; For varnish
 projects[varnish][subdir] = "contrib"
