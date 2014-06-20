@@ -45,23 +45,17 @@ projects[svendborg_views][download][type] = "git"
 projects[svendborg_views][download][branch] = "master"
 projects[svendborg_views][download][url] = "https://github.com/Svendborg/svendborg_views.git"
 
-; Svendborg kulturkalender
-projects[svendborg_kulturkalender][type] = "module"
-projects[svendborg_kulturkalender][download][type] = "git"
-projects[svendborg_kulturkalender][download][branch] = "master"
-projects[svendborg_kulturkalender][download][url] = "https://github.com/Svendborg/svendborg_kulturkalender.git"
-
-; Svendborg hide sidebar
-projects[svendborg_hide_sidebar][type] = "module"
-projects[svendborg_hide_sidebar][download][type] = "git"
-projects[svendborg_hide_sidebar][download][branch] = "master"
-projects[svendborg_hide_sidebar][download][url] = "https://github.com/Svendborg/svendborg_hide_sidebar.git"
-
 ; Svendborg sektionssider
 projects[svendborg_sektionssider][type] = "module"
 projects[svendborg_sektionssider][download][type] = "git"
 projects[svendborg_sektionssider][download][branch] = "master"
 projects[svendborg_sektionssider][download][url] = "https://github.com/Svendborg/svendborg_sektionssider.git"
+
+; Svendborg image styles
+projects[svendborg_image_styles][type] = "module"
+projects[svendborg_image_styles][download][type] = "git"
+projects[svendborg_image_styles][download][branch] = "master"
+projects[svendborg_image_styles][download][url] = "https://github.com/Svendborg/svendborg_image_styles.git"
 
 ; Bedstpaanettet
 projects[bedstpaanettet][version] = "1.0"

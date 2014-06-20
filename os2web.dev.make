@@ -33,6 +33,18 @@ projects[os2web_spotbox][download][type] = "git"
 projects[os2web_spotbox][download][branch] = "feature/7.x-2.0"
 projects[os2web_spotbox][download][url] = "git@github.com:Svendborg/os2web_spotbox.git"
 
+; Svendborg Sektionssider
+projects[svendborg_sektionssider][download][url] = "git@github.com:Svendborg/svendborg_sektionssider.git"
+
+; Svendborg Image Styles
+projects[svendborg_image_styles][download][url] = "git@github.com:Svendborg/svendborg_image_styles.git"
+
+; Svendborg Kulturkalender
+projects[svendborg_kulturkalender][download][url] = "git@github.com:Svendborg/svendborg_kulturkalender.git"
+
+; Svendborg Hide Sidebar
+projects[svendborg_hide_sidebar][download][url] = "git@github.com:Svendborg/svendborg_hide_sidebar.git"
+
 ; OS2web Bootstrap Theme
 projects[os2web_bootstrap_theme][download][url] = "git@github.com:Svendborg/os2web_bootstrap_theme.git"
 
@@ -41,12 +53,3 @@ projects[svendborg_theme][type] = "theme"
 projects[svendborg_theme][download][type] = "git"
 projects[svendborg_theme][download][branch] = "master"
 projects[svendborg_theme][download][url] = "git@github.com:Svendborg/svendborg_theme.git"
-
-; Svendborg Kulturkalender
-projects[svendborg_kulturkalender][download][url] = "git@github.com:Svendborg/svendborg_kulturkalender.git"
-
-; Svendborg Hide Sidebar
-projects[svendborg_hide_sidebar][download][url] = "git@github.com:Svendborg/svendborg_hide_sidebar.git"
-
-projects[svendborg_sektionssider][download][url] = "git@github.com:Svendborg/svendborg_sektionssider.git"
-
