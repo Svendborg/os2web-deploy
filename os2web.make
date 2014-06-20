@@ -69,6 +69,12 @@ projects[svendborg_hide_sidebar][download][type] = "git"
 projects[svendborg_hide_sidebar][download][branch] = "master"
 projects[svendborg_hide_sidebar][download][url] = "https://github.com/Svendborg/svendborg_hide_sidebar.git"
 
+; Svendborg a-aa indeks
+projects[svendborg_a-aa-index][type] = "module"
+projects[svendborg_a-aa-index][download][type] = "git"
+projects[svendborg_a-aa-index][download][branch] = "master"
+projects[svendborg_a-aa-index][download][url] = "https://github.com/Svendborg/svendborg_a-aa-index.git"
+
 ; Bedstpaanettet
 projects[bedstpaanettet][version] = "1.0"
 projects[bedstpaanettet][subdir] = "contrib"
@@ -314,6 +320,9 @@ projects[node_menu_permissions][version] = "1.0"
 
 projects[roleassign][subdir] = "contrib"
 projects[roleassign][version] = "1.0"
+
+projects[site_map][subdir] = "contrib"
+projects[site_map][version] = "1.2"
 
 ; For varnish
 projects[varnish][subdir] = "contrib"
