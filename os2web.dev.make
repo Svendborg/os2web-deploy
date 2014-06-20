@@ -41,3 +41,6 @@ projects[svendborg_image_styles][download][url] = "git@github.com:Svendborg/sven
 
 ; Svendborg Kulturkalender
 projects[svendborg_kulturkalender][download][url] = "git@github.com:Svendborg/svendborg_kulturkalender.git"
+
+; Svendborg Hide Sidebar
+projects[svendborg_hide_sidebar][download][url] = "git@github.com:Svendborg/svendborg_hide_sidebar.git"

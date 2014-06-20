@@ -63,6 +63,12 @@ projects[svendborg_kulturkalender][download][type] = "git"
 projects[svendborg_kulturkalender][download][branch] = "master"
 projects[svendborg_kulturkalender][download][url] = "https://github.com/Svendborg/svendborg_kulturkalender.git"
 
+; Svendborg hide sidebar
+projects[svendborg_hide_sidebar][type] = "module"
+projects[svendborg_hide_sidebar][download][type] = "git"
+projects[svendborg_hide_sidebar][download][branch] = "master"
+projects[svendborg_hide_sidebar][download][url] = "https://github.com/Svendborg/svendborg_hide_sidebar.git"
+
 ; Bedstpaanettet
 projects[bedstpaanettet][version] = "1.0"
 projects[bedstpaanettet][subdir] = "contrib"
