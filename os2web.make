@@ -98,7 +98,7 @@ projects[bigmenu][subdir] = "contrib"
 projects[ctools][version] = "1.3"
 projects[ctools][subdir] = "contrib"
 
-projects[ckeditor][version] = "1.13"
+projects[ckeditor][version] = "1.14"
 projects[ckeditor][subdir] = "contrib"
 
 projects[wysiwyg][version] = "2.2"
@@ -179,8 +179,9 @@ projects[jcarousel][subdir] = "contrib"
 projects[job_scheduler][version] = "2.0-alpha3"
 projects[job_scheduler][subdir] = "contrib"
 
-projects[jquery_update][version] = "2.3"
+projects[jquery_update][version] = "2.4"
 projects[jquery_update][subdir] = "contrib"
+projects[jquery_update][patch][] = "http://www.drupal.org/files/issues/2156881-jquery_update-jquery_migrate_support-13.patch"
 
 projects[l10n_update][version] = "1.0-beta3"
 projects[l10n_update][subdir] = "contrib"
