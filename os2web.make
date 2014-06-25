@@ -325,6 +325,9 @@ projects[roleassign][version] = "1.0"
 projects[site_map][subdir] = "contrib"
 projects[site_map][version] = "1.2"
 
+projects[publishcontent][subdir] = "contrib"
+projects[publishcontent][version] = "1.3"
+
 ; For varnish
 projects[varnish][subdir] = "contrib"
 projects[varnish][version] = "1.0-beta2"
