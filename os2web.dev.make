@@ -51,6 +51,9 @@ projects[svendborg_a-aa-index][download][url] = "git@github.com:Svendborg/svendb
 ; OS2web Bootstrap Theme
 projects[os2web_bootstrap_theme][download][url] = "git@github.com:Svendborg/os2web_bootstrap_theme.git"
 
+; OS2web Contact Block
+projects[os2web_contact][download][url] = "git@github.com:Svendborg/os2web_contact.git"
+
 ; Svendborg theme
 projects[svendborg_theme][type] = "theme"
 projects[svendborg_theme][download][type] = "git"
