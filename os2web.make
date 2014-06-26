@@ -75,6 +75,12 @@ projects[svendborg_a-aa-index][download][type] = "git"
 projects[svendborg_a-aa-index][download][branch] = "master"
 projects[svendborg_a-aa-index][download][url] = "https://github.com/Svendborg/svendborg_a-aa-index.git"
 
+; OS2web Contact Block
+projects[os2web_contact][type] = "module"
+projects[os2web_contact][download][type] = "git"
+projects[os2web_contact][download][branch] = "7.x-2.0"
+projects[os2web_contact][download][url] = "https://github.com/Svendborg/os2web_contact.git"
+
 ; Bedstpaanettet
 projects[bedstpaanettet][version] = "1.0"
 projects[bedstpaanettet][subdir] = "contrib"
