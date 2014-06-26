@@ -57,6 +57,24 @@ projects[svendborg_image_styles][download][type] = "git"
 projects[svendborg_image_styles][download][branch] = "master"
 projects[svendborg_image_styles][download][url] = "https://github.com/Svendborg/svendborg_image_styles.git"
 
+; Svendborg kulturkalender
+projects[svendborg_kulturkalender][type] = "module"
+projects[svendborg_kulturkalender][download][type] = "git"
+projects[svendborg_kulturkalender][download][branch] = "master"
+projects[svendborg_kulturkalender][download][url] = "https://github.com/Svendborg/svendborg_kulturkalender.git"
+
+; Svendborg hide sidebar
+projects[svendborg_hide_sidebar][type] = "module"
+projects[svendborg_hide_sidebar][download][type] = "git"
+projects[svendborg_hide_sidebar][download][branch] = "master"
+projects[svendborg_hide_sidebar][download][url] = "https://github.com/Svendborg/svendborg_hide_sidebar.git"
+
+; Svendborg a-aa indeks
+projects[svendborg_a-aa-index][type] = "module"
+projects[svendborg_a-aa-index][download][type] = "git"
+projects[svendborg_a-aa-index][download][branch] = "master"
+projects[svendborg_a-aa-index][download][url] = "https://github.com/Svendborg/svendborg_a-aa-index.git"
+
 ; Bedstpaanettet
 projects[bedstpaanettet][version] = "1.0"
 projects[bedstpaanettet][subdir] = "contrib"
@@ -80,7 +98,7 @@ projects[bigmenu][subdir] = "contrib"
 projects[ctools][version] = "1.3"
 projects[ctools][subdir] = "contrib"
 
-projects[ckeditor][version] = "1.13"
+projects[ckeditor][version] = "1.14"
 projects[ckeditor][subdir] = "contrib"
 
 projects[wysiwyg][version] = "2.2"
@@ -161,8 +179,9 @@ projects[jcarousel][subdir] = "contrib"
 projects[job_scheduler][version] = "2.0-alpha3"
 projects[job_scheduler][subdir] = "contrib"
 
-projects[jquery_update][version] = "2.3"
+projects[jquery_update][version] = "2.4"
 projects[jquery_update][subdir] = "contrib"
+projects[jquery_update][patch][] = "http://www.drupal.org/files/issues/2156881-jquery_update-jquery_migrate_support-13.patch"
 
 projects[l10n_update][version] = "1.0-beta3"
 projects[l10n_update][subdir] = "contrib"
@@ -302,6 +321,12 @@ projects[node_menu_permissions][version] = "1.0"
 
 projects[roleassign][subdir] = "contrib"
 projects[roleassign][version] = "1.0"
+
+projects[site_map][subdir] = "contrib"
+projects[site_map][version] = "1.2"
+
+projects[publishcontent][subdir] = "contrib"
+projects[publishcontent][version] = "1.3"
 
 ; For varnish
 projects[varnish][subdir] = "contrib"
