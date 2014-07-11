@@ -334,6 +334,15 @@ projects[site_map][version] = "1.2"
 projects[publishcontent][subdir] = "contrib"
 projects[publishcontent][version] = "1.3"
 
+projects[redirect][subdir] = "contrib"
+projects[redirect][version] = "1.0-rc1"
+
+projects[globalredirect][subdir] = "contrib"
+projects[globalredirect][version] = "1.5"
+
+projects[pathologic][subdir] = "contrib"
+projects[pathologic][version] = "2.12"
+
 ; For varnish
 projects[varnish][subdir] = "contrib"
 projects[varnish][version] = "1.0-beta2"
