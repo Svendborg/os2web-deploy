@@ -343,6 +343,9 @@ projects[globalredirect][version] = "1.5"
 projects[pathologic][subdir] = "contrib"
 projects[pathologic][version] = "2.12"
 
+projects[keyboard_shortcut][subdir] = "contrib"
+projects[keyboard_shortcut][version] = "1.2"
+
 ; For varnish
 projects[varnish][subdir] = "contrib"
 projects[varnish][version] = "1.0-beta2"
