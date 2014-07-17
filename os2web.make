@@ -3,11 +3,18 @@ core = 7.x
 
 ;; OS2Web projects:
 
+
+; OS2Web Taxonomies
+projects[os2web_taxonomies][type] = "module"
+projects[os2web_taxonomies][download][type] = "git"
+projects[os2web_taxonomies][download][branch] = "master"
+projects[os2web_taxonomies][download][url] = "https://github.com/Svendborg/os2web_taxonomies.git"
+
 ; OS2Web base
 projects[os2web_base][type] = "module"
 projects[os2web_base][download][type] = "git"
-projects[os2web_base][download][branch] = "master"
-projects[os2web_base][download][url] = "https://github.com/OS2web/os2web_base.git"
+projects[os2web_base][download][branch] = "svendborg"
+projects[os2web_base][download][url] = "https://github.com/Svendborg/os2web_base.git"
 
 ; OS2Web Borger Dk
 projects[os2web_borger_dk][type] = "module"
@@ -348,6 +355,9 @@ projects[quicktabs][version] = "3.6"
 
 projects[views_infinite_scroll][subdir] = "contrib"
 projects[views_infinite_scroll][version] = "1.1"
+
+projects[keyboard_shortcut][subdir] = "contrib"
+projects[keyboard_shortcut][version] = "1.2"
 
 ; For varnish
 projects[varnish][subdir] = "contrib"
