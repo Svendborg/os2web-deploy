@@ -343,6 +343,12 @@ projects[globalredirect][version] = "1.5"
 projects[pathologic][subdir] = "contrib"
 projects[pathologic][version] = "2.12"
 
+projects[quicktabs][subdir] = "contrib"
+projects[quicktabs][version] = "3.6"
+
+projects[views_infinite_scroll][subdir] = "contrib"
+projects[views_infinite_scroll][version] = "1.1"
+
 ; For varnish
 projects[varnish][subdir] = "contrib"
 projects[varnish][version] = "1.0-beta2"
