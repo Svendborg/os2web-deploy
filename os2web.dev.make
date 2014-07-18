@@ -3,6 +3,11 @@ core = 7.x
 
 includes[base] = "os2web.make"
 
+projects[os2web_taxonomies][type] = "module"
+projects[os2web_taxonomies][download][type] = "git"
+projects[os2web_taxonomies][download][branch] = "master"
+projects[os2web_taxonomies][download][url] = "git@github.com:Svendborg/os2web_taxonomies.git"
+
 ; OS2Web base
 projects[os2web_base][type] = "module"
 projects[os2web_base][download][type] = "git"
