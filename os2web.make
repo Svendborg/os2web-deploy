@@ -350,6 +350,12 @@ projects[globalredirect][version] = "1.5"
 projects[pathologic][subdir] = "contrib"
 projects[pathologic][version] = "2.12"
 
+projects[quicktabs][subdir] = "contrib"
+projects[quicktabs][version] = "3.6"
+
+projects[views_infinite_scroll][subdir] = "contrib"
+projects[views_infinite_scroll][version] = "1.1"
+
 projects[keyboard_shortcut][subdir] = "contrib"
 projects[keyboard_shortcut][version] = "1.2"
 
